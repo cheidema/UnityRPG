@@ -1,0 +1,36 @@
+battleAttackSelected.png ->  
+R - 133
+G - 255
+B - 96
+H - 106
+S - 62
+V - 100
+Opacity - 255
+
+R - 0
+G - 0
+B - 0
+H - 0
+S - 0
+V - 0
+Opacity - 255
+
+battleAttack.png
+
+R - 0
+G - 0
+B - 0
+H - 0
+S - 0
+V - 0
+Opacity - 255
+
+battleSelect.png
+
+R - 255
+G - 222
+B - 147
+H - 41
+S - 42
+V - 199
+Opacity - 255
