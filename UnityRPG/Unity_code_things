@@ -1,0 +1,8 @@
+Unity code things
+
+         GameObject go = new GameObject("Load Game Select");
+         SpriteRenderer renderer = go.AddComponent<SpriteRenderer>();
+         sprite = Resources.Load<Sprite>("battleAttack");
+         renderer.sprite = sprite;
+
+Will load a sprite from the resource folder name battleAttack and attach it to a dynamically allocated object named Load Game Select
